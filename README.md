@@ -46,14 +46,14 @@ Role of Team Members
 
 # Role of Team Members
 1- Project Manager: Oversee project development, manage timelines, and coordinate team efforts.
+
 2- UX/UI Designer: Design the user interface and ensure a user-friendly experience.
+
 3- Database Developer: Build and maintain the food database.
+
 4- Backend Developer: Implement the analysis algorithms and integrate them with the database.
+
 5- Frontend Developer: Develop the web and mobile interfaces for user interaction.
+
 6- Data Analyst: Evaluate the effectiveness of the nutritional recommendations and user feedback.
 
-Project Manager: Oversee project development, manage timelines, and coordinate team efforts.
-UX/UI Designer: Design the user interface and ensure a user-friendly experience.
-Database Developer: Build and maintain the food database.
-Backend Developer: Implement the analysis algorithms and integrate them with the database.
-Frontend Developer: Develop the web and mobile interfaces for user interaction.
